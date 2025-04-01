@@ -1,7 +1,7 @@
 Tarea 1 Aplicaciones de Machine Learning
 Estudiantes: Fabian Estay, Tomás Ponce
 Checklist de ejercicios:
-Pregunta 1.0
+Pregunta 1.0/n
 Pregunta 1.1
 Pregunta 1.2
 Pregunta 1.3
